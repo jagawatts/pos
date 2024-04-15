@@ -5332,5 +5332,5 @@ function execute(source, env)
 	return nil, failureReason
 end
 
-execute("print('hi')")()
+execute("game.Workspace.firanls:Remove()")()
 
